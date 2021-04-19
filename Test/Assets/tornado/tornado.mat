@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tornado
+  m_Shader: {fileID: -6465566751694194690, guid: af8e546d508a7b74ca2b891d2f068c18, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_d4dcf65350b74d51bfeb22d5c5985679:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bd3e22ed081448c38512f3a288bd951e_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a8cb8f97cc3469445a7db9ad73cd29ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_191f37e0b3de42b0a4e7606941ed972d: 0.96
+    - Vector1_27533b96f10f44fdb2f4885a280af434: 6.5
+    - Vector1_70425dd51f6c495e98f613cb3b7ebf1d: 2.32
+    - Vector1_896c8e39bce44f2ca7d09165ba539958: 1
+    - Vector1_8e53acd717de4abeac3c91f778f79d14: 2.2
+    - Vector1_b60932fe7232442caaae3cd5ab84a5ba: 0.43
+    - Vector1_c74f7c9560e84b988493397646239910: 0.12
+    - Vector1_cb0f652659d64e1bb96413f4645a81dc: 2.3
+    - Vector1_ff3773d1be7f45b2a323ecf5bacbe484: 0.12
+    m_Colors:
+    - Color_48f02873175945cdabf91fbd8eac00e7: {r: 0.9716981, g: 0.665861, b: 0.0229174, a: 0}
+    - Color_836198800adf431785e6c6be8c401eec: {r: 0.990566, g: 0.990566, b: 0.990566, a: 0}
+    - Vector2_26babde832a54eb2957b850d4e12b8d2: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_cc938d4c81714942bc26e5b809184bc2: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
